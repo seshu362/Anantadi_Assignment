@@ -1,0 +1,31 @@
+/* Video Upload Component Styles */
+.upload-container {
+  padding: 20px;
+  text-align: center;
+}
+
+.upload-container h2 {
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+.upload-container input {
+  width: 80%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.upload-container button {
+  padding: 10px 20px;
+  cursor: pointer;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.upload-container button:hover {
+  background-color: #45a049;
+}

@@ -1,0 +1,14 @@
+/* Video Details Component Styles */
+.video-details {
+  padding: 20px;
+  background-color: white;
+  margin: 20px auto;
+  width: 80%;
+  max-width: 800px;
+  border-radius: 8px;
+}
+
+.video-details h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}

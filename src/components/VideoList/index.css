@@ -1,0 +1,51 @@
+/* Video List Styles */
+.video-list {
+  padding: 20px;
+}
+
+.video-list h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.video-card {
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.video-card:hover {
+  background-color: #f1f1f1;
+}
+
+.video-card h3 {
+  font-size: 20px;
+}
+
+.video-card p {
+  color: #555;
+  font-size: 14px;
+}
+/* Video Card Styles */
+.video-card {
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.video-card:hover {
+  background-color: #f1f1f1;
+}
+
+.video-card h3 {
+  font-size: 20px;
+}
+
+.video-card p {
+  color: #555;
+  font-size: 14px;
+}
